@@ -1,0 +1,70 @@
+body{
+    background: #fccb47;
+    text-align: center;
+    }
+    
+    h1{
+    font-family: 'Bungee Shade', cursive;
+    font-size: 7em;
+    }
+    
+    h3{
+     font-family: 'Kaushan Script', cursive;
+    }
+    
+    h4{
+        font-family: 'Nunito Sans', sans-serif;  
+    }
+    
+    h2{
+     font-family: castellar;
+    }
+    
+    .bp4{
+      height: 500px;
+      width: 700px;
+      border-style:solid;
+      border-color:#190C29;
+      border: 1px 
+      border-radius: 80px;
+    }
+    
+    .girls{
+     height:400px;
+     width: 300px;
+      border-style:solid;
+      border-color:black;
+      border: 1px 
+      border-radius: 80px;
+    }
+    
+    .title-pink {
+      color: black;
+    }
+    
+    p{
+     font-family: 'Kaushan Script', cursive;
+     font-size: 1.5em;
+    }
+    
+    footer {
+     background: black;
+      color:#ffff;
+      font-size: 1.0em;
+      text-align: center;
+      padding:0.01%;
+    }
+    
+    hr.copyright{
+     opacity:0.10;
+    }
+    
+    .links a {
+        font-family: 'Nunito Sans', sans-serif;
+        color: pink;
+    }
+    
+    .links2 a {
+        font-family: 'Nunito Sans', sans-serif;
+        color: White;
+    }
